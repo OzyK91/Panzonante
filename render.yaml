@@ -16,4 +16,4 @@ services:
       - key: TMDB_KEY
         sync: false
       - key : TRANSPORT_ROUTES
-      sync: false
+        sync: false
